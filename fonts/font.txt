@@ -1,0 +1,4 @@
+font-family: 'Open Sans', sans-serif;
+font-family: 'Paprika', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Manrope', sans-serif;
